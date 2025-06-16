@@ -1,0 +1,5 @@
+first = input("enter first number")
+second = input("enter your second number")
+difference = (int(first) - int(second))
+print(difference)
+print("the sum is : "+ str(difference))
